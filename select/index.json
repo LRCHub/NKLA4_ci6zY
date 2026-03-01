@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "すれ違い",
+  "base_artist": "Soala",
+  "createdAt": "2026-03-01T16:34:20.050933Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すれ違い",
+      "artist": "Soala",
+      "has_synced": false,
+      "path": "select/pl_01_すれ違い_Soala.txt"
+    }
+  ]
+}
